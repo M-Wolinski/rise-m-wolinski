@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "9b85b08d-0c30-451e-8d12-21746a758a89": {
+      "label": "\"If I Rise\" Maya Angelou",
+      "is_offline": false,
+      "file_url": "https://ia800109.us.archive.org/15/items/sample-02_202502/Sample%2002.mp3",
+      "duration": 174,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Maya Angelou: If I Rise (Analysis of Figure of Speech)",
+  "created_at": "2025-03-24T23:08:26.950Z",
+  "created_by": "M-Wolinski",
+  "updated_at": "2025-03-24T23:08:26.950Z",
+  "updated_by": "M-Wolinski"
+}
