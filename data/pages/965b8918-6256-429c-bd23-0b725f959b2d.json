@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-26T00:16:24.586Z",
+  "created_by": "M-Wolinski",
+  "title": "And Still I Rise",
+  "slug": "and-still-i-rise",
+  "updated_at": "2025-03-26T00:16:24.586Z",
+  "updated_by": "M-Wolinski",
+  "parent": "16e4af29-06ae-49f0-8cc1-2b98894388a9",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "44d5f958-61c1-4211-bc76-21e1b45801f8"
+  }
+}
